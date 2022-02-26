@@ -1,0 +1,25 @@
+
+nav ul
+{
+    display: flex;
+}
+
+nav li a
+{
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+nav li a:hover
+{
+background-color: gray;
+padding: 5px;
+}
+
+nav li 
+{
+    list-style: none;
+    transform: ;
+    
+}
